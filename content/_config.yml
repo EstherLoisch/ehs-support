@@ -19,3 +19,5 @@ plugins:
 markdown: kramdown
 kramdown:
   parse_block_html: true
+optional_front_matter:
+  remove_originals: true
