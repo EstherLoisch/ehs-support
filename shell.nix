@@ -15,17 +15,17 @@ in
   };
   build = override {
     shellHook = ''
-      exec jekyll build --incremental
+      exec jekyll build --source content --incremental
     '';
   };
   rebuild = override {
     shellHook = ''
-      exec jekyll build
+      exec jekyll build --source content
     '';
   };
   live = override {
     shellHook = ''
-      exec jekyll serve --watch --incremental --livereload --open-url
+      exec jekyll serve --source content --watch --incremental --livereload --open-url
     '';
   };
 }

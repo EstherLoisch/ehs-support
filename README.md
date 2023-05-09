@@ -2,6 +2,11 @@
 
 In order to reproducibly build the site and set up the development environment for working on it, [install Nix](https://nixos.org/download).
 
+### Editing
+
+Site contents are in the [`content`](./content) directory.
+The main page is [`index.md`](./content/index.md), and other pages will be linked from there.
+
 ### Deployment
 
 To build the site as a complete artifact in `./result`, run
@@ -24,7 +29,7 @@ On Linux and macOS this will automatically open a browser window.
 
 ### Full rebuild
 
-Incremental rebuilds cannot account for changes of [`_config.yml`](./_config.yml).
+Incremental rebuilds cannot account for changes of [`_config.yml`](./content/_config.yml).
 To do a full rebuild:
 
 ```console

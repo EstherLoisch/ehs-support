@@ -8,7 +8,7 @@ let
 in
 pkgs.stdenv.mkDerivation {
   name = "ehs-support";
-  src = ./.;
+  src = ./content;
   buildPhase = ''jekyll build'';
   installPhase = ''mv _site $out'';
   buildInputs = with pkgs; [
