@@ -17,10 +17,10 @@ This will take a while for the first time and produce lots of output.
 To update site content automatically when files are changed:
 
 ```console
-nix-shell -A serve
+nix-shell -A live
 ```
 
-On Linux and macOS this will also serve the site on <localhost:4000>.
+On Linux and macOS this will automatically open a browser window.
 
 ### Full rebuild
 

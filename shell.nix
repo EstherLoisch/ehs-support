@@ -23,9 +23,9 @@ in
       exec jekyll build
     '';
   };
-  serve = override {
+  live = override {
     shellHook = ''
-      exec jekyll serve --watch --incremental
+      exec jekyll serve --watch --incremental --livereload --open-url
     '';
   };
 }
