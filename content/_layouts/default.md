@@ -5,12 +5,17 @@
 
 <body>
 
+<header>
+<img src="/ehs-support.svg">
+</header>
+
 <nav>
 
 <ul>
+<li> <a href="index.html">Startseite</a> </li>
+<li> <a href="leistungen.html">Leistungen</a> </li>
 <li> <a href="ueber_mich.html">Über mich</a> </li>
 <li> <a href="kontakt.html">Kontakt</a> </li>
-<li> <a href="leistungen.html">Leistungen</a> </li>
 </ul>
 
 </nav>

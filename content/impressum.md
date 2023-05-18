@@ -8,8 +8,8 @@ Brentanostr. 31 \
 
 ## Kontaktaufnahme
 
-Telefon: +49 176 4348 4503 \
-E-Mail: esther@ehs-support.de
+Telefon: <a href="tel:+17643484503">+49 176 4348 4503</a> \
+E-Mail: <mailto:esther@ehs-support.de>
 
 ## Umsatzsteuer-ID
 

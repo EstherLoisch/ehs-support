@@ -1,8 +1,125 @@
 ---
 ---
+$color: blue
+
+@font-face
+  font-family: "DarumadropOne"
+  src: url(DarumadropOne.ttf)
+
+header
+  width: 100%
+
+  img
+    max-width: 100%
+    max-height: 10em
+    margin: 0 auto
 
 nav
+  background-color: $color
+  color: white
+  a:visited, a
+    color: white
+    text-decoration: none
+  padding: 1em 1em 1.2em 1em
+  margin: 1.5em 0 1.5em 0
   ul
     padding: 0
+    margin: 0
+    display: flex
+    flex-direction: horizontal
+    flex-wrap: wrap
+    row-gap: 1.5em
   li
     display: inline
+    white-space: nowrap
+    flex: 1
+    //flex-basis: 100%
+    margin: 0 1em 0 1em
+
+    line-height: 1
+    font-family: DarumadropOne
+    font-size: 1.2em
+    text-align: center
+  li:before
+    content: "★"
+    position: relative
+    left: -0.4em
+    bottom: 0.05em
+    margin-right: 0
+
+
+h1, h2, h3
+  font-family: DarumadropOne
+
+h1
+  font-size: 2.5em
+  margin: 0.5em 0 0.5em
+
+h2
+  font-size: 1.75em
+
+body
+  max-width: 50em
+  margin: 0 auto
+  line-height: 1.3
+  padding: 2em
+  font-family: Verdana
+
+a:visited
+  color: mix($color,white,$weight:60%)
+a, a:hover
+  color: $color
+
+article
+  ul
+    padding-left: 2em
+  li
+    margin: 0.5em 0 0.5em 0
+    padding: 0
+    list-style-type: none
+  li:before
+    content: "★"
+    position: relative
+    left: -1.5em
+    margin-right: -1em
+    color: $color
+
+img
+  display: block
+
+.bild
+  max-width: 50%
+  float: right
+
+.colored
+  color: $color
+
+.heading
+  font-family: DarumadropOne
+  font-size: 2em
+
+.large
+  font-size: 1.5em
+  font-weight: bold
+  a
+    text-decoration: none
+    white-space: nowrap
+
+@media (max-width:40em)
+  body
+    padding: 1em
+  .bild
+    float: none
+    max-height: 100vh
+    max-width: 80%
+    margin: 0 auto
+
+.clearfloat
+  clear: both
+
+footer
+  margin: 2em
+  margin-top: 3em
+  text-align: center
+
+

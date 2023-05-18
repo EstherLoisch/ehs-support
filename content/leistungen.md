@@ -1,17 +1,12 @@
 # Leistungen
 
-Ihr flexibles Back-Office in den Bereichen Arbeitssicherheit und Umweltmanagement unterstützt Sie bei der:
+Ich unterstütze Sie komplett remote in den verschiedensten Bereichen:
 
-Erstellung und Aktualisierung von
-- Gefährdungsbeurteilungen
-- Betriebsanweisungen
+- Dokumentation von Gefährdungsbeurteilungen
+- Erstellung und Aktualisierung von Betriebsanweisungen
 - Jahresberichten (der Betriebsbeauftragten, der Fachkraft für Arbeitssicherheit, Nachhaltigkeits- und CSR-Berichte, Umwelterklärungen)
 - ASA-, und Begehungsprotokollen
 - Checklisten, Management Reviews, Unterweisungsunterlagen, Management-Handbüchern und weiteren dokumentierten Informationen
-
-Pflege
-- des Gefahrstoffkatasters, der Anlagendokumentation gem. AwSV
-- Ihrer EHS-Software
-
-Recherche
-- zu rechtlichen und normativen Anforderungen
+- Pflege des Gefahrstoffkatasters, Anlagendokumentation gem. AwSV
+- Pflege Ihrer EHS-Software
+- Recherchen zu rechtlichen und normativen Anforderungen
