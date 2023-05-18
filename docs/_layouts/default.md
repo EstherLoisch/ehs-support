@@ -6,7 +6,7 @@
 <body>
 
 <header>
-<img src="/ehs-support.svg">
+<img src="ehs-support.svg">
 </header>
 
 <nav>
