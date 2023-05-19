@@ -2,15 +2,18 @@
 
 **pragmatisch <span class="colored">★</span> ziel- und lösungsorientiert <span class="colored">★</span> verantwortungsbewusst**
 
+</br></br>
+
 ![](./esther.png){: .bild}
 
 Gebürtig aus dem Frankfurter Raum, aber im Herzen Weltbürgerin. Intrinsisch motiviert, unser Leben sicherer, umweltfreundlicher und gesünder zu gestalten. Überzeugt davon, dass sich Prozesse in Unternehmen und Behörden mit meiner Unterstützung einfacher gestalten lassen und Führungskräfte sowie Mitarbeitende aktiven Umwelt- und Arbeitsschutz ohne schwere Bürde leben können.
 
 Langjährige Berufserfahrung als interne Sicherheitskoordinatorin und Umweltmanagerin in Industrie und Verwaltung. Tätig u.&#8239;a. in folgenden Branchen: Elektronikfertigung, Energie- und Wasserversorgung, Papier- und Zellstoffindustrie, Verlagswesen und Dienstleistungen.
 
-
 <div class="clearfloat">
 
+</br></br>
+  
 ## Titel und Zertifikate
 
 - M.A. Sustainability Economics and Management
