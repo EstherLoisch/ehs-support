@@ -15,7 +15,7 @@ Langjährige Berufserfahrung als interne Sicherheitskoordinatorin und Umweltmana
 
 - M.A. Sustainability Economics and Management
 - B.A. Umwelt- und Betriebswirtschaft
-- Ausbildung zur Fachkraft für Arbeitssicherheit (Erwerb der sicherheitstechnischen Fachkunde gem. DGUV Vorschrift 2) (BG ETEM, Branchenspezifik Energie- und Wasserversorgung sowie Fertigung)
+- Fachkraft für Arbeitssicherheit (Erwerb der sicherheitstechnischen Fachkunde gem. DGUV Vorschrift 2) (BG ETEM, Branchenspezifik Energie- und Wasserversorgung sowie Fertigung)
 - Umweltmanagement-Fachkraft (UMF-TÜV), Umweltmanagement-Beauftragte (UMB-TÜV), Umweltmanagement-Auditorin (UMA-TÜV) sowie Umweltbetriebsprüferin (UBP-TÜV),
 - Energiemanagement-Beauftragte und Interne Auditorin ISO 50001 (DEKRA)
 - diverse Weiterbildungen, um Fachkunde und Wissensstand zu erhalten
