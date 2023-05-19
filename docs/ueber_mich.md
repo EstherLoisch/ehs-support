@@ -4,7 +4,7 @@
 
 ![](./esther.png){: .bild}
 
-Gebürtig aus dem Frankfurter Raum, aber im Herzen Weltbürgerin. Intrinsisch motiviert, unser Leben sicherer, umweltfreundlicher und gesünder zu gestalten. Überzeugt davon, dass sich Prozesse in Unternehmen und Behörden mit meiner Unterstützung einfacher gestalten lassen und Führungskräfte sowie Mitarbeitende aktiven Umwelt- und Arbeitsschutz ohne schwere Bürde leben können.
+Gebürtig aus dem Frankfurter Raum, aber im Herzen Weltbürgerin. Intrinsisch motiviert unser Leben sicherer, umweltfreundlicher und gesünder zu gestalten. Überzeugt davon, dass sich Prozesse in Unternehmen und Behörden mit meiner Unterstützung einfacher gestalten lassen und Führungskräfte sowie Mitarbeitende aktiven Umwelt- und Arbeitsschutz ohne schwere Bürde leben können.
 
 Langjährige Berufserfahrung als interne Sicherheitskoordinatorin und Umweltmanagerin in Industrie und Verwaltung. Tätig u.&#8239;a. in folgenden Branchen: Elektronikfertigung, Energie- und Wasserversorgung, Papier- und Zellstoffindustrie, Verlagswesen und Dienstleistungen.
 
