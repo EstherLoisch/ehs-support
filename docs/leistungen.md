@@ -4,8 +4,8 @@ Ich unterstütze Sie komplett remote in den verschiedensten Bereichen:
 
 - Dokumentation von Gefährdungsbeurteilungen
 - Erstellung und Aktualisierung von Betriebsanweisungen
-- Jahresberichten (der Betriebsbeauftragten, der Fachkraft für Arbeitssicherheit, Nachhaltigkeits- und CSR-Berichte, Umwelterklärungen)
-- ASA-, und Begehungsprotokollen
+- Jahresberichte (der Betriebsbeauftragten, der Fachkraft für Arbeitssicherheit, Nachhaltigkeits- und CSR-Berichte, Umwelterklärungen)
+- ASA-, und Begehungsprotokolle
 - Checklisten, Management Reviews, Unterweisungsunterlagen, Management-Handbüchern und weiteren dokumentierten Informationen
 - Pflege des Gefahrstoffkatasters, Anlagendokumentation gem. AwSV
 - Pflege Ihrer EHS-Software
