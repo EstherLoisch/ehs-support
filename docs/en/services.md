@@ -1,9 +1,9 @@
 # Services
 
-I support you completely remote in a wide range of areas:
+I support you completely remotely with creating and updating the following documents:
 
 - Documentation of risk assessments
-- Creation and updating of operating instructions
+- Operating instructions
 - Annual reports (of the environmental officers, of the occupational safety and health specialist, sustainability and CSR reports, environmental statements)
 - ASA and inspection protocols
 - Checklists, management reviews, instruction documents, management manuals and other documented information

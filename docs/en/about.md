@@ -15,7 +15,7 @@ occupational safety without a heavy burden.
 
 Many years of professional experience as an internal safety
 coordinator and environmental manager in industry and administration.
-Active in the following sectors, among others: electronics
+Active in the following sectors, including: electronics
 manufacturing, energy and water supply, paper and pulp industry,
 publishing and services.
 
