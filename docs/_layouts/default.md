@@ -6,7 +6,7 @@
 <body>
 
 <header>
-<img src="ehs-support.svg">
+<img src="./img/ehs-support.svg">
 </header>
 
 <nav>
@@ -26,6 +26,7 @@
 
 <footer>
 
+<a href="en"><img src="img/en.svg"> English version</a>
 <a href="impressum.html">Impressum</a>
 
 </footer>

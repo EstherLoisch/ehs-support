@@ -4,7 +4,7 @@
 **pragmatisch <span class="colored">★</span> ziel- und lösungsorientiert <span class="colored">★</span> verantwortungsbewusst**
 </div>
 
-![](./esther.png){: .bild}
+![](./img/esther.png){: .bild}
 
 Gebürtig aus dem Frankfurter Raum, aber im Herzen Weltbürgerin. Intrinsisch motiviert unser Leben sicherer, umweltfreundlicher und gesünder zu gestalten. Überzeugt davon, dass sich Prozesse in Unternehmen und Behörden mit meiner Unterstützung einfacher gestalten lassen und Führungskräfte sowie Mitarbeitende aktiven Umwelt- und Arbeitsschutz ohne schwere Bürde leben können.
 

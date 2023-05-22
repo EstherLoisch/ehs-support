@@ -1,6 +1,11 @@
 defaults:
   -
     scope:
+      path: "en"
+    values:
+      layout: english
+  -
+    scope:
       path: ""
     values:
       layout: default
