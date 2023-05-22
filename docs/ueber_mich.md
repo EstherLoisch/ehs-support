@@ -1,6 +1,8 @@
 # Über mich
 
+<div class="banner">
 **pragmatisch <span class="colored">★</span> ziel- und lösungsorientiert <span class="colored">★</span> verantwortungsbewusst**
+</div>
 
 ![](./esther.png){: .bild}
 
@@ -10,7 +12,6 @@ Langjährige Berufserfahrung als interne Sicherheitskoordinatorin und Umweltmana
 
 <div class="clearfloat">
 
-  
 ## Titel und Zertifikate
 
 - M.A. Sustainability Economics and Management
