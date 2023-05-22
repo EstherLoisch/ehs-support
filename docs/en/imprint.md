@@ -10,7 +10,7 @@ Germany
 ## Contact
 
 Phone: <a href="tel:+17643484503">+49 176 4348 4503</a> \
-E-Mail: <mailto:esther@ehs-support.eu>
+E-Mail: <mailto:esther@ehs-support.de>
 
 ## Sales tax ID
 
