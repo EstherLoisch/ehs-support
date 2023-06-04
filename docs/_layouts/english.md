@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 {% include head.html %}
 
 <body>
 
 <header>
-<img src="../img/ehs-support.svg">
+<img src="../img/ehs-support.svg" alt="">
 </header>
 
 <nav>
@@ -26,7 +26,7 @@
 
 <footer>
 
-<a href=".."><img src="../img/de.svg"> Deutsche Version</a>
+<a href=".."><img src="../img/de.svg" alt=""> Deutsche Version</a>
 <a href="imprint.html">Imprint</a>
 
 </footer>
